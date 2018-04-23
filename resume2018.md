@@ -5,7 +5,7 @@
 
 + Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
 + Over 20 years of experience solving unique and challenging technical issues including:
-    + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal downtime
+    + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal disruption to military and civilian users
     + Designed an environment to require DoD smart card authentication for production SSH access
     + Developed a system to automate sending and executing updates to isolated cloud environment
 + Experienced at operating independently while keeping vested parties in the loop.
@@ -46,7 +46,7 @@
 + Web/SDK Product Support Manager (2006-2008):
 
     - Provided support to customers with escalated issues and custom code requirements
-    - Colloborated with international support team on product issues
+    - Collaborated with international support team on product issues
     - Developed and delivered training for technical support teams
 
 + Technical Support Engineer (2005-2006):
