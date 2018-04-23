@@ -62,7 +62,7 @@
 ---
 ## Education and Certifications
 
-+ **edX - RITx** : MicroMasters in Cybersecurity - 2018
++ **edX - RITx** : MicroMasters in Cybersecurity (2018)
 
 + **Amazon** : AWS Certified Solutions Architect (2016 - 2018)
 
@@ -70,4 +70,4 @@
 
 + **SANS Institute** : GCIH (GIAC Certified Incident Handler)  (2011 - 2015)
 
-+ **University of Rochester** : BA *Psychology* - 2001
++ **University of Rochester** : BA - Major: *Psychology* | Minor: *Theater* (2001)
