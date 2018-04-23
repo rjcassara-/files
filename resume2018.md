@@ -8,10 +8,10 @@
     + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal disruption to military and civilian users
     + Designed an environment to require DoD smart card authentication for production SSH access
     + Developed a system to automate sending and executing updates to isolated cloud environment
-+ Experienced at operating independently while keeping vested parties in the loop.
-+ Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies. 
-+ Strives to achieve balance between strong security and user-friendly systems.
-+ Creates and presents original material at local security conferences.
++ Experienced at operating independently while keeping vested parties in the loop
++ Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies 
++ Strives to achieve balance between strong security and user-friendly systems
++ Creates and presents original material at local security conferences
 
 ---
 
@@ -28,7 +28,7 @@
 
 + Systems & Network Analyst (2009 - 2015):
 
-    - Designed and executed migration of physical infrastructure to virtualized environment on VMWare.
+    - Designed and executed migration of physical infrastructure to virtualized environment on VMWare
     - Configured and managed development environment: firewall, VPN, DNS, Certificate Authority, etc. 
     - Coordinated and executed migration of virtual systems into AWS
     - Managed incident detection, response, and recovery
@@ -39,7 +39,7 @@
 
     - Generated custom reports and performed analysis to identify trends and outliers
     - Developed web application to permit direct customer data collection
-    - Administered company network, website, and systems.
+    - Administered company network, website, servers, and phone system
 
 **MicroStrategy, Inc.**
 
