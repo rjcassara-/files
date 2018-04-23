@@ -4,10 +4,14 @@
 ## About
 
   + Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
-  + Striving to strike the balance between strong security and user-friendly systems.
+  + Strives to achieve balance between strong security and user-friendly systems.
   + Experienced at operating independently while keeping vested parties in the loop.
   + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies. 
-  + Over 20 years of experience solving unique and difficult technical challenges.
+  + Over 20 years of experience solving unique and challenging technical issues including:
+      + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal downtime
+      + Designed an environment to require DoD smart card authentication for production SSH access
+      + Developed a system to automate sending and executing updates to isolated cloud environment
+  + Creates and presents original material at local security conferences.
 
 ---
 
@@ -19,7 +23,7 @@
     - Developed solutions to automate tasks, generate alerts, and manage systems in production AWS environment
     - Trained DevOps team on network appliances and security software
     - Managed SIEM - configured log collection, devloped custom reports and alerts
-    - Reduced system attack surface,  and mitigated vulnerabilities
+    - Evaluated risks and issues, reduced system attack surface, and mitigated vulnerabilities
     - Developed prototypes for migrating to containerized architecture
 
 + Systems & Network Analyst (2009 - 2015):
@@ -27,7 +31,7 @@
     - Designed and executed migration of physical infrastructure to virtualized environment on VMWare.
     - Configured and managed development environment: firewall, VPN, DNS, Certificate Authority, etc. 
     - Coordinated and executed migration of virtual systems into AWS
-    - Managed incident response and recovery
+    - Managed incident detection, response, and recovery
 
 **Clear Carbon Consulting**
 
@@ -53,11 +57,11 @@
 ---
 ## Presentations
 
-+ **Converge Detroit 2018** : *DADSEC 102*
++ **Converge Detroit 2018** : *DADSEC 102* 
 + **A2Y.asm 2017** : *DADSEC 101*
-+ **Converge Detroit 2017** : *Vectors & Victims*
-+ **Converge Detroit 2016** : *Building a Better User*
-+ **Converge Detroit 2015** : *Hiding in the ShaDOS*
++ **Converge Detroit 2017** : [*Vectors & Victims*](https://www.youtube.com/watch?v=jfEt3RukoC8)
++ **Converge Detroit 2016** : [*Building a Better User*](https://www.youtube.com/watch?v=1HDvYPf2FJ0)
++ **Converge Detroit 2015** : [*Hiding in the ShaDOS*](https://www.youtube.com/watch?v=EdQfrji8lL4)
 + **Converge Detroit 2014** : *Free to Play Security* 
 ---
 ## Education and Certifications
