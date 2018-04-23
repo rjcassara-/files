@@ -3,11 +3,11 @@
 
 ## About
 
-  + Full-stack administrator (systems, networks, database, cloud); Short-stack developer (Python, PowerShell, Bash)
+  + Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
   + Striving to strike the balance between strong security and user-friendly systems.
   + Experienced at operating independently while keeping vested parties in the loop.
-  + Comfortable working in Agile/Scrum framework, easily adaptable to other methodologies. 
-  + Over 20 years of experience coercing technology into doing things it doesn't seem to want to do.
+  + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies. 
+  + Over 20 years of experience solving unique and difficult technical challenges.
 
 ---
 
