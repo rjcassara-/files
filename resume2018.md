@@ -3,15 +3,15 @@
 
 ## About
 
-  + Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
-  + Strives to achieve balance between strong security and user-friendly systems.
-  + Experienced at operating independently while keeping vested parties in the loop.
-  + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies. 
-  + Over 20 years of experience solving unique and challenging technical issues including:
-      + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal downtime
-      + Designed an environment to require DoD smart card authentication for production SSH access
-      + Developed a system to automate sending and executing updates to isolated cloud environment
-  + Creates and presents original material at local security conferences.
++ Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
++ Over 20 years of experience solving unique and challenging technical issues including:
+    + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal downtime
+    + Designed an environment to require DoD smart card authentication for production SSH access
+    + Developed a system to automate sending and executing updates to isolated cloud environment
++ Experienced at operating independently while keeping vested parties in the loop.
++ Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies. 
++ Strives to achieve balance between strong security and user-friendly systems.
++ Creates and presents original material at local security conferences.
 
 ---
 
@@ -22,7 +22,7 @@
 
     - Developed solutions to automate tasks, generate alerts, and manage systems in production AWS environment
     - Trained DevOps team on network appliances and security software
-    - Managed SIEM - configured log collection, devloped custom reports and alerts
+    - Managed SIEM - configured log collection, developed custom reports and alerts
     - Evaluated risks and issues, reduced system attack surface, and mitigated vulnerabilities
     - Developed prototypes for migrating to containerized architecture
 
@@ -45,7 +45,7 @@
 
 + Web/SDK Product Support Manager (2006-2008):
 
-    - Provided support to customers with unique issues and custom code requirements
+    - Provided support to customers with escalated issues and custom code requirements
     - Colloborated with international support team on product issues
     - Developed and delivered training for technical support teams
 
