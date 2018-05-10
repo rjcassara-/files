@@ -70,7 +70,7 @@
 
 + **Amazon** : AWS Certified Solutions Architect (2016 - 2018)
 
-+ **ISC^2^** : CISSP (2014 - present)
++ **ISC^2** : CISSP (2014 - present)
 
 + **SANS Institute** : GCIH (GIAC Certified Incident Handler)  (2011 - 2015)
 
