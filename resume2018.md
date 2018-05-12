@@ -57,7 +57,7 @@
 ---
 ## Presentations
 
-+ **Converge Detroit 2018** : *DADSEC 102* 
++ **Converge Detroit 2018** : [*DADSEC 102*](https://www.youtube.com/watch?v=FKssx-saqrE) 
 + **A2Y.asm 2017** : *DADSEC 101*
 + **Converge Detroit 2017** : [*Vectors & Victims*](https://www.youtube.com/watch?v=jfEt3RukoC8)
 + **Converge Detroit 2016** : [*Building a Better User*](https://www.youtube.com/watch?v=1HDvYPf2FJ0)
