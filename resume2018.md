@@ -37,8 +37,8 @@
 
 + Information Management Analyst (2008-2009)
 
-    - Generated custom reports and performed analysis to identify trends and outliers
-    - Developed web application to permit direct customer data collection
+    - Generated custom reports and performed analysis to identify trends and outliers, so clients could meaningfully reduce carbon emissions
+    - Developed secure web application to directly collect customer data
     - Administered company network, website, servers, and phone system
 
 **MicroStrategy, Inc.**
@@ -47,6 +47,7 @@
 
     - Provided support to customers with escalated issues and custom code requirements
     - Collaborated with international support team on product issues
+    - Mentored support engineers on web team
     - Developed and delivered training for technical support teams
 
 + Technical Support Engineer (2005-2006):
