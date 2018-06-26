@@ -54,6 +54,8 @@
     - Resolved technical issues for customers across a wide variety of industries
     - Authored and edited knowledge base articles
 
+  *prior additional work experience in QA and technical support*
+
 ---
 ## Presentations
 
