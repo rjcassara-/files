@@ -5,8 +5,9 @@
 
 + Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
 + Over 20 years of experience solving unique and challenging technical issues including:
-    + Implemented an additional firewall and new network segmentation into a production cloud environment with minimal disruption to military and civilian users
-    + Designed an environment to require DoD smart card authentication for production SSH access
+    + Deployed additional firewall and new network segmentation into a production cloud environment with less than 1 hour of dowtime to military and civilian users
+    + Automated custom AWS volume exports with AWS Lambda
+    + Designed a secured environment to require DoD smart card authentication for production SSH access
     + Developed a system to automate sending and executing updates to isolated cloud environment
 + Experienced at operating independently while keeping vested parties in the loop
 + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies 
@@ -20,7 +21,8 @@
 
 + DevOps Engineer (2015 - present):
 
-    - Developed solutions to automate tasks, generate alerts, and manage systems in production AWS environment
+    - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly cost
+    - Deployed and managed systems in production and development AWS environments
     - Trained DevOps team on network appliances and security software
     - Managed SIEM - configured log collection, developed custom reports and alerts
     - Evaluated risks and issues, reduced system attack surface, and mitigated vulnerabilities
