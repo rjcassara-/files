@@ -7,7 +7,7 @@
 + Over 20 years of experience solving unique and challenging technical issues including:
     + Deployed additional firewall and new network segmentation into a production cloud environment with less than 1 hour of dowtime to military and civilian users
     + Automated custom AWS volume exports with AWS Lambda
-    + Designed a secured environment to require DoD smart card authentication for production SSH access
+    + Designed a secured environment to require DoD smart card authentication for production access
     + Developed a system to automate sending and executing updates to isolated cloud environment
 + Experienced at operating independently while keeping vested parties in the loop
 + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies 
