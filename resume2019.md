@@ -23,7 +23,7 @@
 
 + DevOps Engineer (2015 - present):
 
-    - Translated exisiting system architecture into code to facilitate future deployments and improve disaster recovery processes
+    - Translated existing system architecture into code to facilitate future deployments and improve disaster recovery processes
     - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly costs
     - Deployed and managed systems in production and development AWS environments
     - Trained DevOps team on network appliances and security software
