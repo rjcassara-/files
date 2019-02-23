@@ -3,10 +3,12 @@
 
 ## About
 
-+ Full-stack administrator (Systems, Networks, Databases, Cloud); Short-stack developer (Python, PowerShell, Bash)
++ Seasoned DevOps practitioner with experience building physical, virtual, and cloud systems and networks
++ Developed process automations with Python, PowerShell, Ansible, AWS Lambda, and AWS CloudFormation 
 + Over 20 years of experience solving unique and challenging technical issues including:
-    + Deployed additional firewall and new network segmentation into a production cloud environment with less than 1 hour of dowtime to military and civilian users
-    + Automated custom AWS volume exports with AWS Lambda
+    + Deployed additional firewall and new network segmentation into a production cloud environment with less than 1 hour of downtime to military and civilian users
+    + Automated custom cloud volume exports
+    + Implemented measures to cut cloud costs without sacrificing functionality
     + Designed a secured environment to require DoD smart card authentication for production access
     + Developed a system to automate sending and executing updates to isolated cloud environment
 + Experienced at operating independently while keeping vested parties in the loop
@@ -21,7 +23,8 @@
 
 + DevOps Engineer (2015 - present):
 
-    - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly cost
+    - Translated exisiting system architecture into code to facilitate future deployments and improve disaster recovery processes
+    - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly costs
     - Deployed and managed systems in production and development AWS environments
     - Trained DevOps team on network appliances and security software
     - Managed SIEM - configured log collection, developed custom reports and alerts
@@ -68,6 +71,7 @@
 + **Converge Detroit 2016** : [*Building a Better User*](https://www.youtube.com/watch?v=1HDvYPf2FJ0)
 + **Converge Detroit 2015** : [*Hiding in the ShaDOS*](https://www.youtube.com/watch?v=EdQfrji8lL4)
 + **Converge Detroit 2014** : *Free to Play Security* 
+
 ---
 ## Education and Certifications
 
