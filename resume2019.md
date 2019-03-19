@@ -77,7 +77,8 @@
 
 + **edX - RITx** : MicroMasters in Cybersecurity (2018)
 
-+ **Amazon** : AWS Certified Solutions Architect - Associate (2016, renewed 2018)
++ **Amazon** : AWS Certified Solutions Architect - Associate (2016, renewed 2018)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS Certified Solutions Architect - Professional (2019)
 
 + **ISC^2** : CISSP (2014 - present)
 
