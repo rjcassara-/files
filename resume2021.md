@@ -3,15 +3,16 @@
 
 ## About
 
-+ Seasoned DevOps practitioner with experience building physical, virtual, and cloud systems and networks
-+ Developed process automations with Python, PowerShell, Ansible, AWS Lambda, and AWS CloudFormation 
++ Security-minded administrator (Systems, Networks, Databases, Cloud) and developer (Python, PowerShell, Bash)
++ Experience across physical, hybrid, and cloud environments (AWS, Azure)
 + Over 20 years of experience solving unique and challenging technical issues including:
-    + Deployed additional firewall and new network segmentation into a production cloud environment with less than 1 hour of downtime to military and civilian users
-    + Automated custom cloud volume exports
-    + Implemented measures to cut cloud costs without sacrificing functionality
+    + Coordinated and configured enhanced email protection for a Fortune 500 company
+    + Engineered workflows to transform logs and injest them into the SIEM system 
+    + Deployed additional firewall and new network segmentation into a production cloud environment with minimal downtime to military and civilian users
+    + Automated custom AWS volume exports with AWS Lambda
     + Designed a secured environment to require DoD smart card authentication for production access
     + Developed a system to automate sending and executing updates to isolated cloud environment
-+ Experienced at operating independently while keeping vested parties in the loop
++ Experienced at operating independently while 
 + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies 
 + Strives to achieve balance between strong security and user-friendly systems
 + Creates and presents original material at local security conferences
@@ -19,12 +20,20 @@
 ---
 
 ## Work Experience
+**Consumers Energy**
+
++ Senior Information Security Engineer (2019 - present)
+
+    - Designed and implemented new security solutions for corporate environment
+    - Identified and remediated potential security issues in new and existing projects 
+    - Developed custom code to integrate security products into corporate workflows
+    - Documented procedures and trained operations staff to support security tools
+
 **DELTA Resources, Inc.**  
 
-+ DevOps Engineer (2015 - present):
++ DevOps Engineer (2015 - 2019):
 
-    - Translated existing system architecture into code to facilitate future deployments and improve disaster recovery processes
-    - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly costs
+    - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly cost
     - Deployed and managed systems in production and development AWS environments
     - Trained DevOps team on network appliances and security software
     - Managed SIEM - configured log collection, developed custom reports and alerts
@@ -71,16 +80,14 @@
 + **Converge Detroit 2016** : [*Building a Better User*](https://www.youtube.com/watch?v=1HDvYPf2FJ0)
 + **Converge Detroit 2015** : [*Hiding in the ShaDOS*](https://www.youtube.com/watch?v=EdQfrji8lL4)
 + **Converge Detroit 2014** : *Free to Play Security* 
-
 ---
 ## Education and Certifications
 
 + **edX - RITx** : MicroMasters in Cybersecurity (2018)
 
-+ **Amazon** : AWS Certified Solutions Architect - Associate (2016, renewed 2018)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AWS Certified Solutions Architect - Professional (2019)
++ **Amazon** : AWS Certified Solutions Architect - Associate (2016, renewed 2018); Professional (2019 - present)
 
-+ **ISC^2** : CISSP (2014 - present)
++ **ISC^2** : CISSP (2014 - 2019)
 
 + **SANS Institute** : GCIH (GIAC Certified Incident Handler)  (2011 - 2015)
 
