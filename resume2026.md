@@ -1,6 +1,6 @@
 # Richard J Cassara 
 | *703.258.4569*  |  *rjcassara@gmail.com* |
-
+---
 ## About
 
 + Technically adept, security-focused engineer/architect/administrator
