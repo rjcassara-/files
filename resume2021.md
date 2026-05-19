@@ -3,26 +3,46 @@
 
 ## About
 
-+ Security-minded administrator (Systems, Networks, Databases, Cloud) and developer (Python, PowerShell, Bash)
-+ Experience across physical, hybrid, and cloud environments (AWS, Azure)
-+ Over 20 years of experience solving unique and challenging technical issues including:
++ Technically adept, security-focused engineer/architect/administrator
++ Experience across physical, hybrid, and cloud environments (AWS, Azure, GCP)
++ Demonstrates strong technical leadership by clearly communicating and/or teaching concepts to a wide variety of interested parties
++ Over 25 years of experience solving unique and challenging technical issues including:
+    + Inherited control of custom applications with minimal documentation, reverse engineered functionality and fixed bugs independently
     + Coordinated and configured enhanced email protection for a Fortune 500 company
     + Engineered workflows to transform logs and injest them into the SIEM system 
     + Deployed additional firewall and new network segmentation into a production cloud environment with minimal downtime to military and civilian users
     + Automated custom AWS volume exports with AWS Lambda
     + Designed a secured environment to require DoD smart card authentication for production access
     + Developed a system to automate sending and executing updates to isolated cloud environment
-+ Experienced at operating independently while 
 + Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies 
 + Strives to achieve balance between strong security and user-friendly systems
-+ Creates and presents original material at local security conferences
 
 ---
 
 ## Work Experience
+**Cisco Systems, Inc**
++ Manager, Infrastructure Security (2025-2026) 
+
+    - Led team overseeing security architecture across multiple engineering teams
+    - Drove efforts to increase number of teams fully delivering host and kubernetes cluster logging
+    - Initiated and participated in meetings to increase knowledge sharing between teams and fully document and understand the complexities behind each product line architecture and security considerations
+
++ Manager, Security Development Engineering (2024-2025)
+
+    - Led team of engineers developing security automation tools
+    - Collaborated across multiple teams to prioritize new projects and existing workloads
+    - Took on additional management of SRE team and cloud tenant ownership. Migrated cloud accounts from legacy organizations into centralized tooling.
+
++ Cloud Infrastructure Engineer, Technical Lead (2022-2024)
+
+    - Maintained and improved custom security workflows
+    - Addressed vulnerabilities and errors in security tools through patching and/or commiting code fixes
+    - Acted as subject matter expert to support commercial and federal compliance audits
+    - Configured pilot programs for new tooling
+
 **Consumers Energy**
 
-+ Senior Information Security Engineer (2019 - present)
++ Senior Information Security Engineer (2019 - 2022)
 
     - Designed and implemented new security solutions for corporate environment
     - Identified and remediated potential security issues in new and existing projects 
@@ -85,7 +105,7 @@
 
 + **edX - RITx** : MicroMasters in Cybersecurity (2018)
 
-+ **Amazon** : AWS Certified Solutions Architect - Associate (2016, renewed 2018); Professional (2019 - present)
++ **Amazon** : AWS Certified Solutions Architect - Associate (2016, renewed 2018); Professional (2019 - 2022)
 
 + **ISC^2** : CISSP (2014 - 2019)
 
