@@ -16,8 +16,6 @@
     + Automated custom AWS volume exports with AWS Lambda
     + Designed a secured environment to require DoD smart card authentication for production access
     + Developed a system to automate sending and executing updates to isolated cloud environment
-+ Comfortable working in Agile/Scrum framework; easily adaptable to other methodologies 
-+ Strives to achieve balance between strong security and user-friendly systems
 
 ---
 
@@ -26,6 +24,7 @@
 + Manager, Infrastructure Security (2025-2026) 
 
     - Led team overseeing security architecture across multiple engineering teams
+    - Leveraged AI models to streamline workflows, began project to incorporate AI security scanning into build pipelines
     - Drove efforts to increase number of teams fully delivering host and kubernetes cluster logging
     - Initiated and participated in meetings to increase knowledge sharing between teams and fully document and understand the complexities behind each product line architecture and security considerations
 
