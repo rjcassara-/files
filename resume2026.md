@@ -93,6 +93,7 @@
   *prior additional work experience in QA and technical support*
 
 ---
+
 ## Presentations
 
 + **Converge Detroit 2018** : [*DADSEC 102*](https://www.youtube.com/watch?v=FKssx-saqrE) 
@@ -100,8 +101,10 @@
 + **Converge Detroit 2017** : [*Vectors & Victims*](https://www.youtube.com/watch?v=jfEt3RukoC8)
 + **Converge Detroit 2016** : [*Building a Better User*](https://www.youtube.com/watch?v=1HDvYPf2FJ0)
 + **Converge Detroit 2015** : [*Hiding in the ShaDOS*](https://www.youtube.com/watch?v=EdQfrji8lL4)
-+ **Converge Detroit 2014** : *Free to Play Security* 
++ **Converge Detroit 2014** : *Free to Play Security*
+  
 ---
+
 ## Education and Certifications
 
 + **edX - RITx** : MicroMasters in Cybersecurity (2018)
