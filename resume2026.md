@@ -49,6 +49,7 @@
     - Identified and remediated potential security issues in new and existing projects 
     - Developed custom code to integrate security products into corporate workflows
     - Documented procedures and trained operations staff to support security tools
+    - Installed and configured hardware security appliances in company data centers
 
 **DELTA Resources, Inc.**  
 
