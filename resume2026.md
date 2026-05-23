@@ -21,20 +21,20 @@
 
 ## Work Experience
 **Cisco Systems, Inc**
-+ Manager, Infrastructure Security (2025-2026) 
++ Manager, Infrastructure Security (Oct 2025 - Jul 2026) 
 
     - Led team overseeing security architecture across multiple engineering teams
     - Leveraged AI models to streamline workflows, began project to incorporate AI security scanning into build pipelines
     - Drove efforts to increase number of teams fully delivering host and kubernetes cluster logging
     - Initiated and participated in meetings to increase knowledge sharing between teams and fully document and understand the complexities behind each product line architecture and security considerations
 
-+ Manager, Security Development Engineering (2024-2025)
++ Manager, Security Development Engineering (Nov 2024 - Oct 2025)
 
     - Led team of engineers developing security automation tools
     - Collaborated across multiple teams to prioritize new projects and existing workloads
     - Took on additional management of SRE team and cloud tenant ownership. Migrated cloud accounts from legacy organizations into centralized tooling.
 
-+ Cloud Infrastructure Engineer, Technical Lead (2022-2024)
++ Cloud Infrastructure Engineer, Technical Lead (Jan 2022 - Nov 2024)
 
     - Maintained and improved custom security workflows
     - Addressed vulnerabilities and errors in security tools through patching and/or commiting code fixes
@@ -43,7 +43,7 @@
 
 **Consumers Energy**
 
-+ Senior Information Security Engineer (2019 - 2022)
++ Senior Information Security Engineer (Jul 2019 - Jan 2022)
 
     - Designed and implemented new security solutions for corporate environment
     - Identified and remediated potential security issues in new and existing projects 
@@ -53,7 +53,7 @@
 
 **DELTA Resources, Inc.**  
 
-+ DevOps Engineer (2015 - 2019):
++ DevOps Engineer (Jan 2015 - Jun 2019):
 
     - Automated cloud infrastructure tasks and processes, resulting in large reductions to monthly cost
     - Deployed and managed systems in production and development AWS environments
@@ -62,7 +62,7 @@
     - Evaluated risks and issues, reduced system attack surface, and mitigated vulnerabilities
     - Developed prototypes for migrating to containerized architecture
 
-+ Systems & Network Analyst (2009 - 2015):
++ Systems & Network Analyst (Dec 2009 - Jan 2015):
 
     - Designed and executed migration of physical infrastructure to virtualized environment on VMWare
     - Configured and managed development environment: firewall, VPN, DNS, Certificate Authority, etc. 
@@ -71,7 +71,7 @@
 
 **Clear Carbon Consulting**
 
-+ Information Management Analyst (2008-2009)
++ Information Management Analyst (Jul 2008- Oct 2009)
 
     - Generated custom reports and performed analysis to identify trends and outliers, so clients could meaningfully reduce carbon emissions
     - Developed secure web application to directly collect customer data
@@ -79,14 +79,14 @@
 
 **MicroStrategy, Inc.**
 
-+ Web/SDK Product Support Manager (2006-2008):
++ Web/SDK Product Support Manager (Jan 2006- Jul 2008):
 
     - Provided support to customers with escalated issues and custom code requirements
     - Collaborated with international support team on product issues
     - Mentored support engineers on web team
     - Developed and delivered training for technical support teams
 
-+ Technical Support Engineer (2005-2006):
++ Technical Support Engineer (Aug 2005 - Jan 2006):
     
     - Resolved technical issues for customers across a wide variety of industries
     - Authored and edited knowledge base articles
