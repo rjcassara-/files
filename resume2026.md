@@ -9,7 +9,8 @@
 + Experience across physical, hybrid, and cloud environments (AWS, Azure, GCP)
 + Demonstrates strong technical leadership by clearly communicating and/or teaching concepts to a wide variety of interested parties
 + Over 25 years of experience solving unique and challenging technical issues including:
-    + Inherited control of custom applications with minimal documentation, reverse engineered functionality and fixed bugs independently
+    + Inherited control of custom applications with minimal documentation - reverse engineered functionality and fixed bugs independently
+    + Created and presented technical demonstrations for internal and external customers
     + Coordinated and configured enhanced email protection for a Fortune 500 company
     + Engineered workflows to transform logs and injest them into the SIEM system 
     + Deployed additional firewall and new network segmentation into a production cloud environment with minimal downtime to military and civilian users
